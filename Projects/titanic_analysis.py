@@ -1,7 +1,7 @@
 mport pandas as pd
 
 # Load Dataset
-df=pd.read_csv("Titanic-Dataset.csv")
+df=pd.read_csv("../Datasets/Titanic-Dataset.csv")
 
 #Display only columns :Name,Sex,Age,Fare,Survived :
 df[["Name","Sex","Age","Fare","Survived"]]
