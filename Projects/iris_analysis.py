@@ -2,7 +2,7 @@ import pandas as pd
 
 # Load Dataset
 
-df=pd.read_csv("IRIS.csv")
+df=pd.read_csv(""../Datasets/iris.csv"")
 
 #Display first 10 rows:
 df.head(10)
