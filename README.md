@@ -46,7 +46,7 @@ Topics covered:
 - Anaconda
 
 ## Author
---Aaditya
+
 Aaditya Sharma
 
 Aspiring AI/ML Engineer
