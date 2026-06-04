@@ -1,42 +1,52 @@
 # Data Analysis With Python
 
-This repository contains my hands-on practice and mini projects completed while learning Data Analysis and AI/ML.
+This repository contains my hands-on practice and projects completed while learning Data Analysis and AI/ML.
 
-## Topics Covered
+## Repository Structure
 
-* Python Fundamentals
-* NumPy
-* Pandas
-* Data Cleaning
-* Data Transformation
-* Data Analysis
-* GroupBy & Aggregations
-* Working with CSV and JSON files
+### Datasets
+Contains datasets used in the projects:
+- Iris Dataset
+- Titanic Dataset
 
-## Projects
+### Numpy
+Topics covered:
+- Arrays
+- Indexing & Slicing
+- Broadcasting
+- Vectorization
+- Mathematical Functions
 
-### Iris Dataset Analysis
+### Pandas
+Topics covered:
+- Series & DataFrames
+- Data Cleaning
+- Data Transformation
+- GroupBy & Aggregations
+- CSV & JSON Handling
 
-* Dataset exploration
-* Data filtering
-* Feature engineering
-* Species-wise aggregation
+### Projects
 
-### Titanic Dataset Analysis
+#### Iris Analysis
+- Data Filtering
+- Aggregations
+- Feature Engineering
 
-* Passenger survival analysis
-* Fare analysis
-* Class-wise aggregation
-* Data filtering
+#### Titanic Analysis
+- Survival Rate Analysis
+- Passenger Filtering
+- Class-wise Insights
 
 ## Tools Used
 
-* Python
-* NumPy
-* Pandas
-* Jupyter Notebook
-* Anaconda
+- Python
+- NumPy
+- Pandas
+- Jupyter Notebook
+- Anaconda
 
-## Learning Goal
+## Author
+--Aaditya
+Aaditya Sharma
 
-Building a strong foundation in Data Science and Machine Learning through consistent hands-on practice and project-based learning.
+Aspiring AI/ML Engineer
